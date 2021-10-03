@@ -47,8 +47,6 @@ namespace SpaceCluster
             {
                 this.Hide();
                 MessageBox.Show("Logado com Sucesso!");
-                frmMenu frmMenu = new frmMenu();
-                frmMenu.ShowDialog();
                 this.Close();
             }
             else
