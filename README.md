@@ -1,3 +1,5 @@
+First Place in NASA SpaceApps Locale Stage in Ponta Grossa - State of Paraná - Brazil.
+
 How to run this app?
 >>Go to "Releases" on the right side of the main repo.
 >>There you can find version v1.0 of the project.
